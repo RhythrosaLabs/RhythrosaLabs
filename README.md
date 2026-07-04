@@ -9,7 +9,6 @@
 [![Website](https://img.shields.io/badge/Website-rhythrosalabs.github.io-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://rhythrosalabs.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielsheils-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielsheils)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Creator_Program-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rhythrosalabs)
-[![Profile Views](https://komarev.com/ghpvc/?username=RhythrosaLabs&style=for-the-badge&color=1f9d8b)](https://github.com/RhythrosaLabs)
 
 </div>
 
@@ -22,7 +21,7 @@ I am a multidisciplinary builder with 18+ years of experience across audio engin
 - Enterprise AR/XR sound design for Red Bull, Microsoft, Intel, Amazon, Motorola, Lenovo, San Diego Padres, The Glenlivet, and the Alzheimer's Association
 - End-to-end product work from concept and design to engineering and launch
 
-I focus on production-ready systems where AI is deeply integrated into real creative workflows.
+I focus on production-ready systems where AI is deeply integrated into real creative workflows, with sustained open-source activity recognized on GitHub.
 
 ## Focus Areas
 
@@ -47,6 +46,8 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 
 ## Featured Projects
 
+Built in public with an emphasis on practical outcomes, collaborative development, and consistent shipping.
+
 | Project | What it does |
 |---|---|
 | [Ottomate](https://github.com/RhythrosaLabs/otto-mate-2) | Universal AI agent workbench with connectors, skills, browser automation, and visual pipelines |
@@ -57,16 +58,15 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 | [Streamlit Components Demo](https://github.com/RhythrosaLabs/streamlit-components-demo) | Production-grade custom Streamlit components |
 | [InteractiveSoundAndArt](https://github.com/RhythrosaLabs/InteractiveSoundAndArt) | Unity-based interactive portfolio and virtual museum |
 
-## GitHub Trophies
+## GitHub Recognition
 
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=RhythrosaLabs&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
-</p>
+- GitHub profile achievements include YOLO, Starstruck, and Pull Shark x2.
+- Active open-source collaboration across AI tooling, creative software, and multimedia systems.
 
 ## Experience Highlights
 
 - Freelance Creative Technologist (2008-Present): audio, software, game development, design, and media production
-- Streamlit Creator Program (2022-Present): recognized for AI-powered creative tools
+- Streamlit Creator Program (2022-Present): recognized for AI-powered creative tools and consistent open-source delivery
 - Sound Designer, Rock Paper Reality (2023-2024): enterprise AR/XR audio experiences
 - Course Instructor, The Westport Library (2020-2022): introductory game design and generative AI courses
 - Lead Sound Technician, Town of Greenwich (2014-2018): live event audio operations and team leadership
