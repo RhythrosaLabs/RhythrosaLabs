@@ -1,58 +1,95 @@
-<div align="center">
-
 # Dan S · RhythrosaLabs
 
-**AI/Full-Stack Developer · Streamlit Creator · Sound Designer**
+Creative Technologist · Experimental Artist · Multimedia Designer · XR Sound Designer
 
-*Building at the intersection of code, music, and multimedia*
+I build at the intersection of sound, code, and visual media.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielsheils-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielsheils)
-[![Twitter](https://img.shields.io/badge/Twitter-%40rhythrosalabs-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rhythrosalabs)
-[![Streamlit](https://img.shields.io/badge/Streamlit_Creator-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rhythrosalabs)
-[![Website](https://img.shields.io/badge/Website-rhythrosalabs.github.io-222222?style=flat&logo=github&logoColor=white)](https://rhythrosalabs.github.io)
+Official member of the Streamlit Creator Program  
+Website: https://rhythrosalabs.github.io/  
+LinkedIn: https://linkedin.com/in/danielsheils  
+GitHub: https://github.com/RhythrosaLabs
 
-</div>
+---
+
+## About
+
+I'm a multidisciplinary builder with 18+ years of experience across audio engineering, music production, sound design, game development, AI tooling, and creative software.
+
+My background includes:
+- Nearly 30 solo and collaborative albums
+- Hundreds of studio and live collaborations
+- Enterprise AR/XR sound design for brands including Red Bull, Microsoft, Intel, Amazon, Motorola, Lenovo, San Diego Padres, The Glenlivet, and the Alzheimer's Association
+- End-to-end product work spanning concept, design, engineering, and launch
+
+I focus on practical, production-ready systems where AI supports real creative workflows.
 
 ---
 
 ## What I Build
 
-I make AI-powered tools for creative work — audio production, game development, multimedia pipelines, and autonomous agent systems. My projects live at the edge of what generative AI can do when it's actually integrated into creative workflows rather than bolted on as an afterthought.
-
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+- AI-powered creative platforms for audio, video, and content production
+- Autonomous agent systems for research, planning, coding, and media generation
+- Interactive experiences in Unity and browser-based environments
+- Custom Streamlit components and full-stack tools for creative teams
+- Multimedia pipelines combining Python, TypeScript, and modern AI APIs
 
 ---
 
-## Flagship Projects
+## Core Skills
 
-| Project | Description | |
-|---|---|---|
-| [🌩 soundstorm](https://github.com/RhythrosaLabs/soundstorm) | AI-powered audio manipulation for sound designers, algorithmic composers, and experimental audio enthusiasts | ⭐ 36 |
-| [💬 DuoGPT](https://github.com/RhythrosaLabs/DuoGPT) | GPT + DALL-E creative suite for enhanced conversations, content creation, and graphic design | ⭐ 18 |
-| [🤖 otto-mate-2](https://github.com/RhythrosaLabs/otto-mate-2) | Universal AI agent workbench — give it a goal, it plans, codes, browses, and delivers. 190+ connectors | ⭐ 3 |
-| [🎵 labelflow](https://github.com/RhythrosaLabs/labelflow) | Full record label management platform — artists, campaigns, analytics, merch mockups. React 19 + Vite | ⭐ 3 |
-| [🎛 streamlit-components](https://github.com/RhythrosaLabs/streamlit-components-demo) | Custom Streamlit components: Kanban, Audio Editor, Stepper, Node Editor | ⭐ 2 |
+Audio + Music
+- Sound design, mixing, mastering, restoration
+- Spatial audio, AR/VR/XR soundscapes
+- Live sound engineering and broadcast production
 
+Software + AI
+- Python, TypeScript, JavaScript, React, FastAPI, Streamlit
+- Agentic workflows, automation systems, creative AI tooling
+- Product-focused prototyping and rapid iteration
 
----
-
-## Currently Building
-
-- 🔊 **Soundstorm** — expanding real-time audio collaboration and new AI model integrations
-- 🤖 **Otto-Mate 2** — autonomous agent workflows with 190+ tool connectors
-- 🎮 **AI game tooling** — accelerating game dev with generative asset pipelines
+Creative Direction
+- Game design, interactive storytelling, visual design, video production
+- Cross-disciplinary project leadership from idea to release
 
 ---
 
-<div align="center">
+## Selected Projects
 
-Official member of the [Streamlit Creator Program](https://streamlit.io/creators) · 112+ public repositories
+| Project | Focus |
+|---|---|
+| [Ottomate](https://github.com/RhythrosaLabs/otto-mate-2) | Universal AI agent workbench with connectors, skills, browser automation, and visual pipelines |
+| [Soundstorm](https://github.com/RhythrosaLabs/soundstorm) | AI-driven audio manipulation platform for experimental audio and sound design workflows |
+| [DuoGPT](https://github.com/RhythrosaLabs/DuoGPT) | Multi-agent GPT experiment for collaborative ideation and content workflows |
+| [LabelFlow](https://github.com/RhythrosaLabs/labelflow) | Record-label operations platform built with React + Vite |
+| [Autonomous Business Platform](https://github.com/RhythrosaLabs/autonomous-business-platform) | AI automation stack for content, marketing, and business workflows |
+| [Streamlit Components Demo](https://github.com/RhythrosaLabs/streamlit-components-demo) | Custom production-grade Streamlit components |
+| [InteractiveSoundAndArt](https://github.com/RhythrosaLabs/InteractiveSoundAndArt) | Unity-based interactive portfolio/museum for sound, art, and game work |
 
-</div>
+---
+
+## Experience Highlights
+
+- Freelance Creative Technologist (2008-Present): audio, software, game dev, design, media production
+- Streamlit Creator Program (2022-Present): recognized for AI-powered creative tools
+- Sound Designer, Rock Paper Reality (2023-2024): enterprise AR/XR audio
+- Course Instructor, The Westport Library (2020-2022): game design and generative AI education
+- Lead Sound Technician, Town of Greenwich (2014-2018): live event audio operations and team leadership
+- Radio Producer roles (2008-2018): show production, stingers, podcast editing, broadcast audio
+
+---
+
+## Currently Exploring
+
+- Next-generation AI audio collaboration in Soundstorm
+- More capable autonomous agent workflows and tool orchestration
+- AI-accelerated game production pipelines for interactive media
+
+---
+
+## Collaboration
+
+Open to collaborations, commissions, and creative/technical partnerships in:
+- AI product development
+- Audio + XR sound design
+- Interactive media and game tooling
+- Creative automation systems
