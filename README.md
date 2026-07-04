@@ -60,7 +60,7 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 ## GitHub Trophies
 
 <p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=RhythrosaLabs&theme=flat&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
+	<img src="https://github-profile-trophy.vercel.app/?username=RhythrosaLabs&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ## Experience Highlights
