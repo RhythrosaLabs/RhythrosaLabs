@@ -57,15 +57,10 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 | [Streamlit Components Demo](https://github.com/RhythrosaLabs/streamlit-components-demo) | Production-grade custom Streamlit components |
 | [InteractiveSoundAndArt](https://github.com/RhythrosaLabs/InteractiveSoundAndArt) | Unity-based interactive portfolio and virtual museum |
 
-## GitHub Snapshot
+## GitHub Trophies
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=RhythrosaLabs&show_icons=true&hide_border=true&count_private=true&title_color=0f766e&icon_color=0f766e&text_color=0f172a&bg_color=ffffff" alt="GitHub stats" height="170" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhythrosaLabs&layout=compact&hide_border=true&title_color=0f766e&text_color=0f172a&bg_color=ffffff" alt="Top languages" height="170" />
-</p>
-
-<p align="center">
-	<img src="https://streak-stats.demolab.com?user=RhythrosaLabs&hide_border=true&ring=0f766e&fire=0f766e&currStreakLabel=0f766e" alt="Contribution streak" />
+	<img src="https://github-profile-trophy.vercel.app/?username=RhythrosaLabs&theme=flat&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" alt="GitHub trophies" />
 </p>
 
 ## Experience Highlights
