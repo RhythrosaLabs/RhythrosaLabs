@@ -58,6 +58,9 @@ Built in public with an emphasis on practical outcomes, collaborative developmen
 | [DuoGPT](https://github.com/RhythrosaLabs/DuoGPT) | Multi-agent GPT experimentation for collaborative ideation and content workflows |
 | [LabelFlow](https://github.com/RhythrosaLabs/labelflow) | Record label management platform built with React + Vite |
 | [Autonomous Business Platform](https://github.com/RhythrosaLabs/autonomous-business-platform) | AI automation for marketing, content operations, and business workflows |
+| [Multi-Agent Viral Video Maker](https://github.com/RhythrosaLabs/multi-agent-viral-video-maker) | End-to-end multi-agent pipeline that generates longform videos with voice and music |
+| [AI Blog Writer](https://github.com/RhythrosaLabs/ai-blog-writer) | Browser-based AI writing studio for drafting, editing, and publishing long-form content |
+| [Game Maker](https://github.com/RhythrosaLabs/Game-Maker) | AI-accelerated game tooling for concepts, scripts, assets, music, and 3D content |
 | [Streamlit Components Demo](https://github.com/RhythrosaLabs/streamlit-components-demo) | Production-grade custom Streamlit components |
 | [InteractiveSoundAndArt](https://github.com/RhythrosaLabs/InteractiveSoundAndArt) | Unity-based interactive portfolio and virtual museum |
 
