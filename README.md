@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/Website-rhythrosalabs.github.io-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://rhythrosalabs.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danielsheils-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielsheils)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Creator_Program-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rhythrosalabs)
-[![GitHub Starstruck](https://img.shields.io/badge/GitHub-Starstruck%20for%20Soundstorm-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythrosaLabs/soundstorm)
+[![GitHub Starstruck](https://img.shields.io/badge/GitHub-Starstruck-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythrosaLabs)
 
 </div>
 
