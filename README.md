@@ -73,7 +73,7 @@ Built in public with an emphasis on practical outcomes, collaborative developmen
 ## 🎚️ Experience Highlights
 
 - Freelance Creative Technologist (2008-Present): audio, software, game development, design, and media production
-- Streamlit Creator Program (2022-Present): recognized for AI-powered creative tools and consistent open-source delivery
+- Streamlit Creator Program (2025-Present): recognized for AI-powered creative tools and consistent open-source delivery
 - Sound Designer, Rock Paper Reality (2023-2024): enterprise AR/XR audio experiences
 - Course Instructor, The Westport Library (2020-2022): introductory game design and generative AI courses
 - Lead Sound Technician, Town of Greenwich (2014-2018): live event audio operations and team leadership
