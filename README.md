@@ -63,8 +63,8 @@ Built in public with an emphasis on practical outcomes, collaborative developmen
 
 ## 🏆 GitHub Recognition
 
+- 🌟 Soundstorm earned GitHub Starstruck.
 - ⭐ GitHub achievements include YOLO, Starstruck, and Pull Shark x2.
-- 🌟 Soundstorm is the project that earned the GitHub Starstruck trophy.
 - 🤝 Active open-source collaboration across AI tooling, creative software, and multimedia systems.
 
 ## 🎚️ Experience Highlights
