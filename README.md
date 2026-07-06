@@ -81,9 +81,9 @@ Built in public with an emphasis on practical outcomes, collaborative developmen
 
 ## 🧪 Currently Building
 
-- Next-generation AI audio collaboration in Soundstorm
-- More capable autonomous agent workflows and orchestration
-- AI-accelerated game production pipelines for interactive media
+- Otto-Mate 2: expanding autonomous agent workflows, orchestration depth, and connector coverage
+- AI-native production tooling for creative and business automation pipelines
+- AI-accelerated game development systems for concepting, assets, scripting, and iteration
 
 ## 🤝 Collaboration
 
