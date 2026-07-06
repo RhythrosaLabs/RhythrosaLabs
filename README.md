@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0ea5e9,70:14b8a6,100:f59e0b&height=220&section=header&text=RhythrosaLabs&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Sound%20%7C%20Code%20%7C%20Creation&descSize=20&descAlignY=58" alt="Gradient header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1021,35:0ea5e9,68:22d3ee,100:a78bfa&height=220&section=header&text=RhythrosaLabs&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Sound%20%7C%20Code%20%7C%20Creation&descSize=20&descAlignY=58" alt="Gradient header" />
 
 # Dan S · RhythrosaLabs
 
