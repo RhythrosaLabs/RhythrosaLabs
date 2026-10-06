@@ -93,3 +93,9 @@ Open to collaborations, commissions, and partnerships in:
 - Audio and XR sound design
 - Interactive media and game tooling
 - Creative automation systems
+
+## 💛 Support
+
+If this project is useful to you, consider supporting development:
+
+👉 [Donate via PayPal](https://paypal.me/noodlebake) — @noodlebake
