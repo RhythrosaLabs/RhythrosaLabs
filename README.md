@@ -1,17 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1021,35:0ea5e9,68:22d3ee,100:a78bfa&height=220&section=header&text=RhythrosaLabs&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Sound%20%7C%20Code%20%7C%20Creation&descSize=20&descAlignY=58" alt="Gradient header" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png"><img src="assets/hero-dark.png" width="100%" alt="Dan S · RhythrosaLabs. Sound. Code. Creation. Creative Technologist · Experimental Artist · XR Sound Designer"></picture>
 
-# Dan S · RhythrosaLabs
+<br>
 
-### Creative Technologist · Experimental Artist · XR Sound Designer
+<a href="https://rhythrosalabs.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-portfolio-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-portfolio-light.png"><img src="assets/pill-portfolio-dark.png" height="38" alt="Portfolio"></picture></a>
+<a href="https://linkedin.com/in/danielsheils"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-linkedin-light.png"><img src="assets/pill-linkedin-dark.png" height="38" alt="LinkedIn"></picture></a>
+<a href="https://share.streamlit.io/user/rhythrosalabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-streamlit-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-streamlit-light.png"><img src="assets/pill-streamlit-dark.png" height="38" alt="Streamlit Ambassador"></picture></a>
+<a href="https://github.com/RhythrosaLabs?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-starstruck-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-starstruck-light.png"><img src="assets/pill-starstruck-dark.png" height="38" alt="GitHub Starstruck"></picture></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=1F9D8B&center=true&vCenter=true&width=900&lines=I+build+at+the+intersection+of+sound%2C+code%2C+and+visual+media.;18%2B+years+across+audio+engineering%2C+music%2C+interactive+media%2C+and+software.;Official+member+of+the+Streamlit+Creator+Program.)](https://git.io/typing-svg)
+<br><br>
 
-[![Website](https://img.shields.io/badge/Website-rhythrosalabs.github.io-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://rhythrosalabs.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danielsheils-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielsheils)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Creator_Program-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/rhythrosalabs)
-[![GitHub Starstruck](https://img.shields.io/badge/GitHub-Starstruck-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RhythrosaLabs)
+I build at the intersection of sound, code, and visual media, with 18+ years across audio engineering, music, interactive media, and software.<br>
+Streamlit Ambassador (formerly Streamlit Creator).
 
 </div>
 
@@ -49,6 +50,22 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 
 ## 🌟 Featured Projects
 
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/otto-mate-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ottomate-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-ottomate-light.png"><img src="assets/card-ottomate-dark.png" width="100%" alt="Ottomate: a universal AI agent workbench with connectors, skills, browser automation and visual pipelines"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/labelflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-labelflow-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-labelflow-light.png"><img src="assets/card-labelflow-dark.png" width="49%" alt="LabelFlow: record label management for artists, campaigns, analytics and marketing"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-node-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-node-editor-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-node-editor-light.png"><img src="assets/card-node-editor-dark.png" width="49%" alt="Streamlit Node Editor: a node graph editor with typed ports and drag-to-connect wiring"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/streamlit-kanban"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kanban-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-kanban-light.png"><img src="assets/card-kanban-dark.png" width="49%" alt="Streamlit Kanban: a drag-and-drop kanban board for any Python app"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-audio-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-audio-editor-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-audio-editor-light.png"><img src="assets/card-audio-editor-dark.png" width="49%" alt="Streamlit Audio Editor: trim, gain, loop, effects and WAV export in the browser"></picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/ai-blog-writer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-blog-writer-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-blog-writer-light.png"><img src="assets/card-blog-writer-dark.png" width="49%" alt="AI Blog Writer: a browser-based studio for drafting, editing and publishing long-form posts"></picture></a>
+<a href="https://github.com/RhythrosaLabs/genesis-physics-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-genesis-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-genesis-light.png"><img src="assets/card-genesis-dark.png" width="49%" alt="Genesis Physics Lab: an interactive web UI for the Genesis physics engine"></picture></a>
+</p>
+
 Built in public with an emphasis on practical outcomes, collaborative development, and consistent shipping.
 
 | Project | What it does |
@@ -73,7 +90,7 @@ Built in public with an emphasis on practical outcomes, collaborative developmen
 ## 🎚️ Experience Highlights
 
 - Freelance Creative Technologist (2008-Present): audio, software, game development, design, and media production
-- Streamlit Creator Program (2025-Present): recognized for AI-powered creative tools and consistent open-source delivery
+- Streamlit Ambassador (2025-Present): joined as a Streamlit Creator, the program's earlier name; recognized for AI-powered creative tools and consistent open-source delivery
 - Sound Designer, Rock Paper Reality (2023-2024): enterprise AR/XR audio experiences
 - Course Instructor, The Westport Library (2020-2022): introductory game design and generative AI courses
 - Lead Sound Technician, Town of Greenwich (2014-2018): live event audio operations and team leadership
