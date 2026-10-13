@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png"><img src="assets/hero-dark.png" width="100%" alt="Dan S · RhythrosaLabs. Sound. Code. Creation. Creative Technologist · Experimental Artist · XR Sound Designer"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png"><img src="assets/hero-dark.png" width="100%" alt="Dan Sheils · RhythrosaLabs. Sound. Code. Creation. Creative Technologist · Experimental Artist · XR Sound Designer"></picture>
 
 <br>
 
@@ -51,19 +51,19 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 ## 🌟 Featured Projects
 
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/otto-mate-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ottomate-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-ottomate-light.png"><img src="assets/card-ottomate-dark.png" width="100%" alt="Ottomate: a universal AI agent workbench with connectors, skills, browser automation and visual pipelines"></picture></a>
+<a href="https://github.com/RhythrosaLabs/otto-mate-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ottomate-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-ottomate-light.gif"><img src="assets/card-ottomate-dark.gif" width="100%" alt="Ottomate: a universal AI agent workbench with connectors, skills, browser automation and visual pipelines"></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/labelflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-labelflow-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-labelflow-light.png"><img src="assets/card-labelflow-dark.png" width="49%" alt="LabelFlow: record label management for artists, campaigns, analytics and marketing"></picture></a>
-<a href="https://github.com/RhythrosaLabs/streamlit-node-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-node-editor-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-node-editor-light.png"><img src="assets/card-node-editor-dark.png" width="49%" alt="Streamlit Node Editor: a node graph editor with typed ports and drag-to-connect wiring"></picture></a>
+<a href="https://github.com/RhythrosaLabs/labelflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-labelflow-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-labelflow-light.gif"><img src="assets/card-labelflow-dark.gif" width="49%" alt="LabelFlow: record label management for artists, campaigns, analytics and marketing"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-node-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-node-editor-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-node-editor-light.gif"><img src="assets/card-node-editor-dark.gif" width="49%" alt="Streamlit Node Editor: a node graph editor with typed ports and drag-to-connect wiring"></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/streamlit-kanban"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kanban-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-kanban-light.png"><img src="assets/card-kanban-dark.png" width="49%" alt="Streamlit Kanban: a drag-and-drop kanban board for any Python app"></picture></a>
-<a href="https://github.com/RhythrosaLabs/streamlit-audio-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-audio-editor-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-audio-editor-light.png"><img src="assets/card-audio-editor-dark.png" width="49%" alt="Streamlit Audio Editor: trim, gain, loop, effects and WAV export in the browser"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-kanban"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kanban-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-kanban-light.gif"><img src="assets/card-kanban-dark.gif" width="49%" alt="Streamlit Kanban: a drag-and-drop kanban board for any Python app"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-audio-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-audio-editor-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-audio-editor-light.gif"><img src="assets/card-audio-editor-dark.gif" width="49%" alt="Streamlit Audio Editor: trim, gain, loop, effects and WAV export in the browser"></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/ai-blog-writer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-blog-writer-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-blog-writer-light.png"><img src="assets/card-blog-writer-dark.png" width="49%" alt="AI Blog Writer: a browser-based studio for drafting, editing and publishing long-form posts"></picture></a>
-<a href="https://github.com/RhythrosaLabs/genesis-physics-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-genesis-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/card-genesis-light.png"><img src="assets/card-genesis-dark.png" width="49%" alt="Genesis Physics Lab: an interactive web UI for the Genesis physics engine"></picture></a>
+<a href="https://github.com/RhythrosaLabs/ai-blog-writer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-blog-writer-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-blog-writer-light.gif"><img src="assets/card-blog-writer-dark.gif" width="49%" alt="AI Blog Writer: a browser-based studio for drafting, editing and publishing long-form posts"></picture></a>
+<a href="https://github.com/RhythrosaLabs/genesis-physics-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-genesis-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-genesis-light.gif"><img src="assets/card-genesis-dark.gif" width="49%" alt="Genesis Physics Lab: an interactive web UI for the Genesis physics engine"></picture></a>
 </p>
 
 Built in public with an emphasis on practical outcomes, collaborative development, and consistent shipping.
