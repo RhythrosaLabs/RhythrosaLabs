@@ -54,9 +54,6 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 <a href="https://github.com/RhythrosaLabs/otto-mate-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ottomate-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-ottomate-light.gif"><img src="assets/card-ottomate-dark.gif" width="100%" alt="Ottomate: a universal AI agent workbench with connectors, skills, browser automation and visual pipelines"></picture></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/autonomous-business-platform"><img src="assets/card-abp-tour.gif" width="100%" alt="Autonomous Business Platform: AI campaigns, product studio, content and video production in one Streamlit workspace"></a>
-</p>
-<p align="center">
 <a href="https://github.com/RhythrosaLabs/labelflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-labelflow-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-labelflow-light.gif"><img src="assets/card-labelflow-dark.gif" width="49%" alt="LabelFlow: record label management for artists, campaigns, analytics and marketing"></picture></a>
 <a href="https://github.com/RhythrosaLabs/streamlit-node-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-node-editor-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-node-editor-light.gif"><img src="assets/card-node-editor-dark.gif" width="49%" alt="Streamlit Node Editor: a node graph editor with typed ports and drag-to-connect wiring"></picture></a>
 </p>
