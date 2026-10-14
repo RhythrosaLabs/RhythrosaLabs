@@ -1,13 +1,13 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.png"><img src="assets/hero-dark.png" width="100%" alt="Dan Sheils · RhythrosaLabs. Sound. Code. Creation. Creative Technologist · Experimental Artist · XR Sound Designer"></picture>
+<img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/hero-dark.png" width="100%" alt="Dan Sheils · RhythrosaLabs. Sound. Code. Creation. Creative Technologist · Experimental Artist · XR Sound Designer">
 
 <br>
 
-<a href="https://rhythrosalabs.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-portfolio-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-portfolio-light.png"><img src="assets/pill-portfolio-dark.png" height="38" alt="Portfolio"></picture></a>
-<a href="https://linkedin.com/in/danielsheils"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-linkedin-light.png"><img src="assets/pill-linkedin-dark.png" height="38" alt="LinkedIn"></picture></a>
-<a href="https://share.streamlit.io/user/rhythrosalabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-streamlit-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-streamlit-light.png"><img src="assets/pill-streamlit-dark.png" height="38" alt="Streamlit Ambassador"></picture></a>
-<a href="https://github.com/RhythrosaLabs?tab=achievements"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-starstruck-dark.png"><source media="(prefers-color-scheme: light)" srcset="assets/pill-starstruck-light.png"><img src="assets/pill-starstruck-dark.png" height="38" alt="GitHub Starstruck"></picture></a>
+<a href="https://rhythrosalabs.github.io/"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/pill-portfolio-dark.png" height="38" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/danielsheils"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/pill-linkedin-dark.png" height="38" alt="LinkedIn"></a>
+<a href="https://share.streamlit.io/user/rhythrosalabs"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/pill-streamlit-dark.png" height="38" alt="Streamlit Ambassador"></a>
+<a href="https://github.com/RhythrosaLabs?tab=achievements"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/pill-starstruck-dark.png" height="38" alt="GitHub Starstruck"></a>
 
 <br><br>
 
@@ -51,19 +51,25 @@ I focus on production-ready systems where AI is deeply integrated into real crea
 ## 🌟 Featured Projects
 
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/otto-mate-2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ottomate-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-ottomate-light.gif"><img src="assets/card-ottomate-dark.gif" width="100%" alt="Ottomate: a universal AI agent workbench with connectors, skills, browser automation and visual pipelines"></picture></a>
+<a href="https://github.com/RhythrosaLabs/otto-mate-2"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-ottomate-dark.gif" alt="Ottomate: a universal AI agent workbench with connectors, skills, browser automation and visual pipelines"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/labelflow"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-labelflow-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-labelflow-light.gif"><img src="assets/card-labelflow-dark.gif" width="49%" alt="LabelFlow: record label management for artists, campaigns, analytics and marketing"></picture></a>
-<a href="https://github.com/RhythrosaLabs/streamlit-node-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-node-editor-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-node-editor-light.gif"><img src="assets/card-node-editor-dark.gif" width="49%" alt="Streamlit Node Editor: a node graph editor with typed ports and drag-to-connect wiring"></picture></a>
+<a href="https://github.com/RhythrosaLabs/labelflow"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-labelflow-dark.gif" alt="LabelFlow: record label management for artists, campaigns, analytics and marketing"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/streamlit-kanban"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-kanban-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-kanban-light.gif"><img src="assets/card-kanban-dark.gif" width="49%" alt="Streamlit Kanban: a drag-and-drop kanban board for any Python app"></picture></a>
-<a href="https://github.com/RhythrosaLabs/streamlit-audio-editor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-audio-editor-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-audio-editor-light.gif"><img src="assets/card-audio-editor-dark.gif" width="49%" alt="Streamlit Audio Editor: trim, gain, loop, effects and WAV export in the browser"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-node-editor"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-node-editor-dark.gif" alt="Streamlit Node Editor: a node graph editor with typed ports and drag-to-connect wiring"></a>
 </p>
 <p align="center">
-<a href="https://github.com/RhythrosaLabs/ai-blog-writer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-blog-writer-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-blog-writer-light.gif"><img src="assets/card-blog-writer-dark.gif" width="49%" alt="AI Blog Writer: a browser-based studio for drafting, editing and publishing long-form posts"></picture></a>
-<a href="https://github.com/RhythrosaLabs/genesis-physics-lab"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-genesis-dark.gif"><source media="(prefers-color-scheme: light)" srcset="assets/card-genesis-light.gif"><img src="assets/card-genesis-dark.gif" width="49%" alt="Genesis Physics Lab: an interactive web UI for the Genesis physics engine"></picture></a>
+<a href="https://github.com/RhythrosaLabs/streamlit-kanban"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-kanban-dark.gif" alt="Streamlit Kanban: a drag-and-drop kanban board for any Python app"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/streamlit-audio-editor"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-audio-editor-dark.gif" alt="Streamlit Audio Editor: trim, gain, loop, effects and WAV export in the browser"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/ai-blog-writer"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-blog-writer-dark.gif" alt="AI Blog Writer: a browser-based studio for drafting, editing and publishing long-form posts"></a>
+</p>
+<p align="center">
+<a href="https://github.com/RhythrosaLabs/genesis-physics-lab"><img src="https://github.com/RhythrosaLabs/RhythrosaLabs/raw/main/assets/card-genesis-dark.gif" alt="Genesis Physics Lab: an interactive web UI for the Genesis physics engine"></a>
 </p>
 
 Built in public with an emphasis on practical outcomes, collaborative development, and consistent shipping.
